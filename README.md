@@ -2,6 +2,7 @@
 
 Use Color Kernel and Metal shading language.
 
+Note : CIColorKernel has better performance than CIKernel, although its functionality is limited.
 
 ![](./CI_ColorKernelSample.png)
 
